@@ -1,0 +1,16 @@
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\NomeArquivo.exe
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\NomeArquivo.deps.json
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\NomeArquivo.runtimeconfig.json
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\NomeArquivo.runtimeconfig.dev.json
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\NomeArquivo.dll
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\ref\NomeArquivo.dll
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\bin\Debug\net5.0\NomeArquivo.pdb
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.csproj.AssemblyReference.cache
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.AssemblyInfoInputs.cache
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.AssemblyInfo.cs
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.csproj.CoreCompileInputs.cache
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.dll
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\ref\NomeArquivo.dll
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.pdb
+C:\Users\RaphaelGundim\source\repos\NomeArquivo\NomeArquivo\obj\Debug\net5.0\NomeArquivo.genruntimeconfig.cache

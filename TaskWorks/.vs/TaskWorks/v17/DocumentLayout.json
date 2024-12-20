@@ -1,0 +1,418 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\implementations\\dadosprodutividadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\implementations\\dadosprodutividadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.data\\datacontext\\taskworkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|solutionrelative:taskworks.data\\datacontext\\taskworkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.data\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|solutionrelative:taskworks.data\\entities\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\interfaces\\idadosprodutividadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\interfaces\\idadosprodutividadeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\interfaces\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\interfaces\\ieventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\interfaces\\ieventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\interfaces\\imovimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\interfaces\\imovimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\implementations\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\implementations\\movimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\implementations\\movimentacaoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\services\\implementations\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\services\\implementations\\eventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\taskworks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\taskworks.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\views\\startdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\views\\startdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\resources\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\dtos\\eventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\dtos\\eventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.business\\taskworks.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F7C3A22A-83BE-49F1-991B-A96AAB8FBCEF}|TaskWorks.Business\\TaskWorks.Business.csproj|solutionrelative:taskworks.business\\taskworks.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.data\\taskworks.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|solutionrelative:taskworks.data\\taskworks.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks\\views\\startdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{862105C4-D84E-4179-A782-397534070212}|TaskWorks\\TaskWorks.csproj|solutionrelative:taskworks\\views\\startdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.data\\entities\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|solutionrelative:taskworks.data\\entities\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.data\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|solutionrelative:taskworks.data\\entities\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|c:\\users\\raphaelgundim\\source\\repos\\taskworks\\taskworks.data\\entities\\dadosprodutividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DC3C352-4A58-413A-8933-D38BC817F2F1}|TaskWorks.Data\\TaskWorks.Data.csproj|solutionrelative:taskworks.data\\entities\\dadosprodutividade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IDadosProdutividadeService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\IDadosProdutividadeService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Interfaces\\IDadosProdutividadeService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\IDadosProdutividadeService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Interfaces\\IDadosProdutividadeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:50:32.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Interfaces\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\ITaskService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Interfaces\\ITaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:51:17.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DadosProdutividadeService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\DadosProdutividadeService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Implementations\\DadosProdutividadeService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\DadosProdutividadeService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Implementations\\DadosProdutividadeService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:30:05.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\Task.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Data\\Entities\\Task.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\Task.cs",
+              "RelativeToolTip": "TaskWorks.Data\\Entities\\Task.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:16:26.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskWorksContext.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\DataContext\\TaskWorksContext.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Data\\DataContext\\TaskWorksContext.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\DataContext\\TaskWorksContext.cs",
+              "RelativeToolTip": "TaskWorks.Data\\DataContext\\TaskWorksContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:28:24.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\App.xaml.cs",
+              "RelativeDocumentMoniker": "TaskWorks\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\App.xaml.cs",
+              "RelativeToolTip": "TaskWorks\\App.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:32:45.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEventoService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\IEventoService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Interfaces\\IEventoService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\IEventoService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Interfaces\\IEventoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:50:56.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IMovimentacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\IMovimentacaoService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Interfaces\\IMovimentacaoService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Interfaces\\IMovimentacaoService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Interfaces\\IMovimentacaoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:51:34.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Implementations\\TaskService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\TaskService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Implementations\\TaskService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:54.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimentacaoService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\MovimentacaoService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Implementations\\MovimentacaoService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\MovimentacaoService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Implementations\\MovimentacaoService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAtwBkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:43.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventoService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\EventoService.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\Services\\Implementations\\EventoService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\Services\\Implementations\\EventoService.cs",
+              "RelativeToolTip": "TaskWorks.Business\\Services\\Implementations\\EventoService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAtwBYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:29:30.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "TaskWorks\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "TaskWorks\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:26:01.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "TaskWorks\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "TaskWorks\\Commands\\RelayCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:26:28.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TaskWorks.csproj",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\TaskWorks.csproj",
+              "RelativeDocumentMoniker": "TaskWorks\\TaskWorks.csproj",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\TaskWorks.csproj",
+              "RelativeToolTip": "TaskWorks\\TaskWorks.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T03:25:06.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "TaskWorks\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Services\\NavigationService.cs",
+              "RelativeToolTip": "TaskWorks\\Services\\NavigationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:27:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StartDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Views\\StartDialog.xaml",
+              "RelativeDocumentMoniker": "TaskWorks\\Views\\StartDialog.xaml",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Views\\StartDialog.xaml",
+              "RelativeToolTip": "TaskWorks\\Views\\StartDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T03:24:36.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Resources\\Styles.xaml",
+              "RelativeDocumentMoniker": "TaskWorks\\Resources\\Styles.xaml",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Resources\\Styles.xaml",
+              "RelativeToolTip": "TaskWorks\\Resources\\Styles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T03:26:55.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\App.xaml",
+              "RelativeDocumentMoniker": "TaskWorks\\App.xaml",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\App.xaml",
+              "RelativeToolTip": "TaskWorks\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-26T03:32:37.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EventoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\DTOs\\EventoDTO.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\DTOs\\EventoDTO.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\DTOs\\EventoDTO.cs",
+              "RelativeToolTip": "TaskWorks.Business\\DTOs\\EventoDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:30:17.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "TaskWorks.Business.csproj",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\TaskWorks.Business.csproj",
+              "RelativeDocumentMoniker": "TaskWorks.Business\\TaskWorks.Business.csproj",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Business\\TaskWorks.Business.csproj",
+              "RelativeToolTip": "TaskWorks.Business\\TaskWorks.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T03:26:16.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StartDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Views\\StartDialog.xaml.cs",
+              "RelativeDocumentMoniker": "TaskWorks\\Views\\StartDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks\\Views\\StartDialog.xaml.cs",
+              "RelativeToolTip": "TaskWorks\\Views\\StartDialog.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:24:53.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskWorks.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\TaskWorks.Data.csproj",
+              "RelativeDocumentMoniker": "TaskWorks.Data\\TaskWorks.Data.csproj",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\TaskWorks.Data.csproj",
+              "RelativeToolTip": "TaskWorks.Data\\TaskWorks.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T03:00:42.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DadosProdutividade.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\DadosProdutividade.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Data\\Entities\\DadosProdutividade.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\DadosProdutividade.cs",
+              "RelativeToolTip": "TaskWorks.Data\\Entities\\DadosProdutividade.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:16:52.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Data\\Entities\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\Movimentacao.cs",
+              "RelativeToolTip": "TaskWorks.Data\\Entities\\Movimentacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:15:55.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Evento.cs",
+              "DocumentMoniker": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\Evento.cs",
+              "RelativeDocumentMoniker": "TaskWorks.Data\\Entities\\Evento.cs",
+              "ToolTip": "C:\\Users\\RaphaelGundim\\source\\repos\\TaskWorks\\TaskWorks.Data\\Entities\\Evento.cs",
+              "RelativeToolTip": "TaskWorks.Data\\Entities\\Evento.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T03:15:23.259Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

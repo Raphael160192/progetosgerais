@@ -1,0 +1,9 @@
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\ReembolsoConsole.pdb
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\selenium-manager\linux\selenium-manager
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\selenium-manager\macos\selenium-manager
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\selenium-manager\windows\selenium-manager.exe
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\clrcompression.dll
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\clrjit.dll
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\coreclr.dll
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\mscordaccore.dll
+C:\Users\RaphaelGundim\source\repos\ReembolsoConsole\ReembolsoConsole\bin\Release\net5.0\win-x64\publish\ReembolsoConsole.exe

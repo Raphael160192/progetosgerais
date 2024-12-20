@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\RaphaelGundim\\source\\repos\\ReembolsoConsole\\ReembolsoConsole\\ReembolsoConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\RaphaelGundim\\source\\repos\\ReembolsoConsole\\ReembolsoConsole\\ReembolsoConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\RaphaelGundim\\source\\repos\\ReembolsoConsole\\ReembolsoConsole\\ReembolsoConsole.csproj",
+        "projectName": "ReembolsoConsole",
+        "projectPath": "C:\\Users\\RaphaelGundim\\source\\repos\\ReembolsoConsole\\ReembolsoConsole\\ReembolsoConsole.csproj",
+        "packagesPath": "C:\\Users\\RaphaelGundim\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\RaphaelGundim\\source\\repos\\ReembolsoConsole\\ReembolsoConsole\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RaphaelGundim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[7.5.0, )"
+            },
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[4.26.1, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[4.26.1, )"
+            },
+            "SeleniumExtras.WaitHelpers": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.416\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
