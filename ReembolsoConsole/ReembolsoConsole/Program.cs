@@ -15,7 +15,7 @@ class ReembolsoAutomacao
         var registros = CarregarPlanilha(caminhoPlanilha);
         IWebDriver driver = new ChromeDriver();
 
-        if (LoginSistema(driver, "https://alpheratz.itapevarec.com.br/Alpheratz/login.aspx", "jndsantos", "Eys@2025@finan"))
+        if (LoginSistema(driver, "", "", ""))
         {
             foreach (var registro in registros)
             {
